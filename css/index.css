@@ -1,0 +1,16 @@
+body{
+	margin: 80px;
+	height: 10px;
+}
+p{margin:0px}
+div{margin: 0px}
+.c1{color: #8d8df3}
+.c2{color: #f16060}
+.c3{color: #ffc107c9}
+.c4{color: #51ea51}
+.d1{margin-bottom: 13px;background-color: white, widht: 20px;}
+.d2{margin-bottom: 20px;}
+.d3{margin-bottom: 0px;margin-right: auto;margin-left: auto;margin: 0px;/* height: fit-content; */heght: 4px;}
+.d4{margin-bottom: 4px;margin-top: 25px;font-size: 25px;}
+.d5{margin-bottom: 15px;font-size: 10px;}
+.d6{color: white;background-color: green;height: 80px;margin-right: auto;margin-left: auto;font-size: 25px;margin-bottom: 30px;}
